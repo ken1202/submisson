@@ -25,7 +25,7 @@ main {
   width: 300px;
   margin-right: 30px;
   margin-left: 25%;
-  padding: 10px;
+  padding: 20px;
   position: relative;
   background-color: #eee;
   float: left;
@@ -34,7 +34,7 @@ main {
 .step-box2 {
   width: 300px;
   margin-right: 30px;
-  padding: 10px;
+  padding: 20px;
   position: relative;
   background-color: #eee;
   float: left;
@@ -43,7 +43,7 @@ main {
 .step-box3 {
   width: 300px;
   margin-right: 30px;
-  padding: 10px;
+  padding: 20px;
   position: relative;
   background-color: #eee;
   float: left;
@@ -103,7 +103,8 @@ footer {
 
   .step-box1 {
     width: 90%;
-    margin: 20px auto;
+    margin: 0px auto;
+    margin-bottom: 20px;
     padding: 10px;
     position: relative;
     background-color: #eee;
@@ -112,7 +113,8 @@ footer {
 
   .step-box2 {
     width: 90%;
-    margin: 20px auto;
+    margin: 0px auto;
+    margin-bottom: 20px;
     padding: 10px;
     position: relative;
     background-color: #eee;
@@ -121,7 +123,8 @@ footer {
 
   .step-box3 {
     width: 90%;
-    margin: 20px auto;
+    margin: 0px auto;
+    margin-bottom: 20px;
     padding: 10px;
     position: relative;
     background-color: #eee;
